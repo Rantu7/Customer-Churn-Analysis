@@ -17,7 +17,7 @@ It is a 2 page interactive dashboard where the first page focuses on showcasing 
 ![Image](https://github.com/user-attachments/assets/4e8a6f91-0ede-4950-9bf8-76374c112174)
 ![Image](https://github.com/user-attachments/assets/6cd8cabe-91ce-4bcd-a494-d17ef7d90f02)
 
-Downloadable power bi file link: 
+Downloadable power bi file link: https://github.com/Rantu7/Customer-Churn-Analysis/blob/main/Customer%20Churn%20bank.pbix
 
 # DAX Formulas: 
 
